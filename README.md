@@ -1,5 +1,5 @@
 #Overview:#
-This readme describes the folder structure and behavior of the script “run_analysis.R”.  
+This readme describes the input folder structure, the processing logic and output of the script “run_analysis.R”.  
 
 ##Input:##
 This code assumes the following folder structure:
